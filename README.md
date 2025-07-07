@@ -67,7 +67,4 @@ Este proyecto implementa una API REST para una aplicación de mensajería social
 ```
 
 
----
-
-¡Proyecto completado con éxito! 🎯
 
