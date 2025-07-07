@@ -66,14 +66,6 @@ Este proyecto implementa una API REST para una aplicación de mensajería social
 }
 ```
 
----
-
-## 📝 Notas importantes
-
-- `contentTypeName` debe coincidir con valores existentes en `SOCIAL_UD.CONTENT_TYPE.TYPE_DESCRIPTION` (Ej: `"Texto"`, `"Imagen"`, `"Video"`...).
-- Todos los `userId` deben existir previamente en `SOCIAL_UD.SOCIAL_USER`.
-- En mensajes grupales, `receiverUserId` debe ser `null`.
-- Para login o consulta individual, se usa el `userId` exacto (ej. `"00001"`).
 
 ---
 
